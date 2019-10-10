@@ -64,7 +64,9 @@ section ul {
 section > p {
     margin: 1em 0;
 }
-
+#headercs {
+    font-size: 2em;
+}
 #projects {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
